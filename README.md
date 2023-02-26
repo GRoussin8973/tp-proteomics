@@ -165,7 +165,7 @@ df = pandas.read_csv()
 
 Quel est le type de l'objet `df`?
 ```
-
+Ola
 ```
 
 ##### Descriptions d'une table de données
