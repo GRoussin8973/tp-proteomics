@@ -292,6 +292,9 @@ ax.plot(x, norm.pdf(x, mu, sigma)*scale) # compute theoritical PDF and draw it
 
 ![Histogramme à inserez ici](histogram_log2FC.png "Title")
 
+![image](https://user-images.githubusercontent.com/116483859/225901791-f8a54bcb-9f1a-4272-b6cf-7f2893077fa4.png)
+
+
 ##### 5. Quelles remarques peut-on faire à l'observation de l'histogramme et de la loi théorique?
 
 ```
